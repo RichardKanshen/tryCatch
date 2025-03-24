@@ -2,7 +2,7 @@
     "name": "trycatch",
     "private": true,
     "description": "Theo's preferred way of handling try/catch in TypeScript, edited into the form of an npm package.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "dist/tryCatch.js",
     "types": "dist/tryCatch.d.ts",
     "repository": {
